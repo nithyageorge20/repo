@@ -1,0 +1,12 @@
+nithya
+mareena 
+sheena
+aneesha
+nivya
+meera
+olivia
+linu
+sandra
+bash
+#!bin/sh
+
